@@ -12,7 +12,7 @@ Ben Steven Knight ([0000-0001-7919-2575](https://orcid.org/0000-0001-7919-2575))
   
 **Model slug:**  
 
-`Jie-2025-granulites` 
+`Yu-2025-granulites` 
 
 (this will be the name of the model repository when created) 
 
