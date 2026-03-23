@@ -1,1 +1,16 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Knight
+  given-names:
+  - Ben S.
+  - Ben Steven
+  orcid: https://orcid.org/0000-0001-7919-2575
+title: Rift foundering and the generation of non-orogenic granulites during the Mesoproterozoic
+version: ''
+doi: https://doi.org/10.25914/0a2t-by03
+date-released: '2025-12-11'
+url:
+- https://mate.science/models/Yu-2025-granulites/
+- https://github.com/ModelAtlasofTheEarth/Yu-2025-granulites/
+type: dataset
