@@ -40,9 +40,9 @@ if response != "No valid DOI found in the input string.":
 
     key_path = "@graph../.identifier"
     create_or_update_json_entry(rocrate, key_path, doi)
-    key_path = "@graph.model_inputs.identifier"
+    key_path = "@graph.model_code_inputs.identifier"
     create_or_update_json_entry(rocrate, key_path, doi)
-    key_path = "@graph.model_outputs.identifier"
+    key_path = "@graph.model_output_data.identifier"
     create_or_update_json_entry(rocrate, key_path, doi)
     citation_str = format_citation(rocrate)
     key_path = "@graph../.creditText"
