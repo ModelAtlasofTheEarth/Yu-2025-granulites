@@ -101,7 +101,7 @@ Caption:  Evolution of model at selected timesteps, showing the melt generation 
   
 **Animation:**  
 
-Filename: [graphics/animation](https://github.com/user-attachments/assets/ab1c6548-fab2-42ad-bd5c-b0d78f670bb7)  
+Filename: [graphics/animation](https://github.com/ModelAtlasofTheEarth/Yu-2025-granulites/blob/main/.website_material/graphics/output.mp4)  
 Caption:  Model evolution showing the generation and emplacement of melt during rifting.  
   
 **Graphic abstract:**  
